@@ -44,7 +44,7 @@ body {
 .one > img {
   vertical-align: middle;
   margin-bottom: 10px;
-  max-width: 100%;
+  max-width: 75%;
   height: auto;
 }
 
@@ -124,9 +124,9 @@ body {
 
 .six .hat {
   position: absolute;
-  width: 80px;
-  top: -35px;
-  left: 41.5%;
+  width: 200px;
+  top: -60px;
+  left: 40%;
   /* transform: scale(0.1); */
 }
 
